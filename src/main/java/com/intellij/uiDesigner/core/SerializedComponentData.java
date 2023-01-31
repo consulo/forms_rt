@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.intellij.uiDesigner;
+package com.intellij.uiDesigner.core;
 
 /**
  * This class must be in main classloader because of JVM's restrictions (it's used as DataFlavor class)
